@@ -1,7 +1,9 @@
 # NAME: Stripe
+# AUTHOR: coldrook
 # DESCRIPTION: Stripe payment service / Stripe.js / Stripe CDN
 # UPDATED: 2026-06-14
-# BEHAVIOR: classical
+# FORMAT: Surge Rule Set
+# NOTE: Place this rule-set before airport rule-list.
 
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
