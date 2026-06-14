@@ -1,0 +1,58 @@
+# NAME: Docker
+# AUTHOR: coldrook
+# DESCRIPTION: Docker Hub and common OCI/container registry rules for Surge
+# UPDATED: 2026-06-14
+# FORMAT: Surge Rule Set
+# NOTE: Place this rule-set before airport rule-list.
+
+# Docker Hub registry / authentication
+DOMAIN,registry-1.docker.io
+DOMAIN,auth.docker.io
+DOMAIN,index.docker.io
+DOMAIN,hub.docker.com
+
+# Docker Hub domains
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,docker.com
+
+# Docker Hub CDN / image config / layer delivery
+DOMAIN,production.cloudflare.docker.com
+DOMAIN,production.cloudfront.docker.com
+DOMAIN-SUFFIX,cloudflarestorage.com
+DOMAIN-KEYWORD,docker-images-prod
+
+# GitHub Container Registry
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,pkg-containers.githubusercontent.com
+DOMAIN-SUFFIX,githubusercontent.com
+
+# LinuxServer.io Registry
+DOMAIN-SUFFIX,lscr.io
+
+# Microsoft Container Registry
+DOMAIN,mcr.microsoft.com
+
+# Kubernetes Registry
+DOMAIN-SUFFIX,registry.k8s.io
+
+# AWS ECR Public
+DOMAIN-SUFFIX,public.ecr.aws
+
+# Google Container Registry / Artifact related
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+
+# Quay
+DOMAIN-SUFFIX,quay.io
+
+# Red Hat / Fedora container ecosystem
+DOMAIN-SUFFIX,redhat.com
+DOMAIN-SUFFIX,redhat.io
+DOMAIN-SUFFIX,fedoraproject.org
+DOMAIN-SUFFIX,registry.fedoraproject.org
+
+# GitLab Container Registry
+DOMAIN-SUFFIX,registry.gitlab.com
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
