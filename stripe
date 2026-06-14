@@ -1,0 +1,9 @@
+# NAME: Stripe
+# DESCRIPTION: Stripe payment service / Stripe.js / Stripe CDN
+# UPDATED: 2026-06-14
+# BEHAVIOR: classical
+
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripecdn.com
+DOMAIN-SUFFIX,stripeassets.com
