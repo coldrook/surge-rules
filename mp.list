@@ -1,1 +1,12 @@
+# NAME: moviepilot v2
+# AUTHOR: coldrook
+# DESCRIPTION: moviepilot v2 issues
+# UPDATED: 2026-06-15
+# FORMAT: Surge Rule Set
+# NOTE: Place this rule-set before airport rule-list.
 
+DOMAIN,assets.fanart.tv
+DOMAIN,webservice.fanart.tv
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,tvdb.com
+DOMAIN-SUFFIX,trakt.tv
