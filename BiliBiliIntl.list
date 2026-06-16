@@ -8,4 +8,4 @@
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,bstarstatic.com
-PROCESS-NAME,com.bstar.intl
+# PROCESS-NAME,com.bstar.intl
