@@ -1,0 +1,11 @@
+# NAME: BiliBiliIntl
+# AUTHOR: coldrook
+# DESCRIPTION: BiliBiliIntl
+# UPDATED: 2026-06-15
+# FORMAT: Surge Rule Set
+# NOTE: Place this rule-set before airport rule-list.
+
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliintl.com
+DOMAIN-SUFFIX,bstarstatic.com
+PROCESS-NAME,com.bstar.intl
