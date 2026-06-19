@@ -5,18 +5,12 @@
 # FORMAT: Surge Rule Set
 # NOTE: Place this rule-set before airport rule-list.
 
-DOMAIN,assets.fanart.tv
-DOMAIN,webservice.fanart.tv
+DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,tvdb.com
 DOMAIN-SUFFIX,trakt.tv
-DOMAIN,bgm.tv
-DOMAIN,www.bgm.tv
-DOMAIN,api.bgm.tv
-DOMAIN,lain.bgm.tv
 DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,bangumi.tv
 DOMAIN-SUFFIX,chii.in
-DOMAIN,image.tmdb.org
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
