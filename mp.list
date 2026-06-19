@@ -5,12 +5,43 @@
 # FORMAT: Surge Rule Set
 # NOTE: Place this rule-set before airport rule-list.
 
-DOMAIN-SUFFIX,fanart.tv
+# > TMDB
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,themoviedb.org
+
+# > TVDB
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,tvdb.com
+
+# > Trakt
 DOMAIN-SUFFIX,trakt.tv
+
+# > Fanart.tv
+DOMAIN,assets.fanart.tv
+DOMAIN,webservice.fanart.tv
+DOMAIN-SUFFIX,fanart.tv
+
+# > Bangumi
 DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,bangumi.tv
 DOMAIN-SUFFIX,chii.in
-DOMAIN-SUFFIX,themoviedb.org
-DOMAIN-SUFFIX,tmdb.org
+
+# > IMDb
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,imdb.to
+DOMAIN-SUFFIX,imdbws.com
+DOMAIN-SUFFIX,media-imdb.com
+DOMAIN-SUFFIX,boxofficemojo.com
+
+# > IMDb / Amazon 图片 CDN
+DOMAIN,m.media-amazon.com
+DOMAIN-SUFFIX,ssl-images-amazon.com
+
+# > OMDb / 第三方 IMDb API
+DOMAIN-SUFFIX,omdbapi.com
+DOMAIN-SUFFIX,imdbapi.dev
+
+# > 其他影视元数据 API
+DOMAIN-SUFFIX,boxofficemojo.com
+DOMAIN-SUFFIX,tvmaze.com
+DOMAIN-SUFFIX,watchmode.com
