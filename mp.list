@@ -13,3 +13,6 @@ DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,bangumi.tv
 DOMAIN-SUFFIX,chii.in
+DOMAIN,image.tmdb.org
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
