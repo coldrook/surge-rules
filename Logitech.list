@@ -1,3 +1,9 @@
+# NAME: Logitech
+# AUTHOR: coldrook
+# DESCRIPTION: Logitech
+# UPDATED: 2026-06-19
+# FORMAT: Surge Rule Set
+# NOTE: Place this rule-set before airport rule-list.
 DOMAIN-SUFFIX,logi.com
 DOMAIN-SUFFIX,logitech.io
 DOMAIN-SUFFIX,logicool.co.jp
