@@ -1,0 +1,11 @@
+# NAME: my emby
+# AUTHOR: coldrook
+# DESCRIPTION: uhdnow chn
+# UPDATED: 2026-06-20
+# FORMAT: Surge Rule Set
+# NOTE: Place this rule-set before airport rule-list.
+DOMAIN,www.uhdnow.com
+DOMAIN,speed.uhdnow.com
+DOMAIN,smart.uhdnow.com
+DOMAIN-SUFFIX,uhdnow.online
+DOMAIN,mlc.once.im
