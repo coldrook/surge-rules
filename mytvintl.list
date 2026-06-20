@@ -1,3 +1,9 @@
+# NAME: my emby
+# AUTHOR: coldrook
+# DESCRIPTION: uhdnow intl
+# UPDATED: 2026-06-20
+# FORMAT: Surge Rule Set
+# NOTE: Place this rule-set before airport rule-list.
 DOMAIN,v1.uhdnow.com
 DOMAIN,global.uhdnow.com
 DOMAIN,v1-vod1.uhdnow.com
