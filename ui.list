@@ -2,11 +2,11 @@
 # AUTHOR: OpenClaw
 # UPDATED: 2026-06-24
 
-DOMAIN,fw-download.ubnt.com
+# Ubiquiti-owned domains
+DOMAIN-SUFFIX,ui.com
+DOMAIN-SUFFIX,ubnt.com
+
+# Known CDN CNAME targets
 DOMAIN,fw-download.ubnt.com.gccdn.cn
-DOMAIN,fw-download.ui.com
 DOMAIN,weighted-fw-download.ui.com
 DOMAIN,fw-download.ui.com.cdn.cloudflare.net
-DOMAIN,downloads.ui.com
-DOMAIN,dl.ui.com
-DOMAIN,ui.com
