@@ -1,0 +1,12 @@
+# NAME: Ubiquiti Firmware / UI Download Lite
+# AUTHOR: OpenClaw
+# UPDATED: 2026-06-24
+
+DOMAIN,fw-download.ubnt.com
+DOMAIN,fw-download.ubnt.com.gccdn.cn
+DOMAIN,fw-download.ui.com
+DOMAIN,weighted-fw-download.ui.com
+DOMAIN,fw-download.ui.com.cdn.cloudflare.net
+DOMAIN,downloads.ui.com
+DOMAIN,dl.ui.com
+DOMAIN,ui.com
